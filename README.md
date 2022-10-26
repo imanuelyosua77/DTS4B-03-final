@@ -1,6 +1,6 @@
 1.
 
-https://raw.githubusercontent.com/imanuelyosua77/DTS4B-03-final/master/Final%20Project.gif
+![](https://raw.githubusercontent.com/imanuelyosua77/DTS4B-03-final/master/Final%20Project.gif)
 
 2. Link LIVE Project : 
 
